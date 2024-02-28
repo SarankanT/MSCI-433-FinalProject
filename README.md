@@ -7,7 +7,9 @@ By: Hassan Rawasia, Sarankan Thirunavukkarasu, Skyler Nam-Wong
 
 ### Introduction
 
-### Purpose of GreenerThreads
+### Descriptive Analysis
+
+### Predictive Analysis
 
 ### Data
 
@@ -16,3 +18,13 @@ By: Hassan Rawasia, Sarankan Thirunavukkarasu, Skyler Nam-Wong
 ### Demo
 
 ## Project Part 2 
+
+### Introduction
+
+### Prescriptive Analysis 
+
+### Data
+
+### User Interface
+
+### Demo
