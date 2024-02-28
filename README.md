@@ -6,6 +6,7 @@ By: Hassan Rawasia, Sarankan Thirunavukkarasu, Skyler Nam-Wong
 ## Project Part 1
 
 ### Introduction
+Project Details
 
 ### Descriptive Analysis
 
